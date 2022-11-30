@@ -1,0 +1,6 @@
+framework module Pods_Duuliye {
+  umbrella header "Pods-Duuliye-umbrella.h"
+
+  export *
+  module * { export * }
+}

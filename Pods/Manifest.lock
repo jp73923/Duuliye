@@ -1,0 +1,52 @@
+PODS:
+  - Alamofire (4.8.2)
+  - IQDropDownTextField (3.0.0)
+  - IQKeyboardManagerSwift (6.5.9)
+  - lottie-ios (3.3.0)
+  - PanModal (1.2.7)
+  - SDWebImage (5.12.5):
+    - SDWebImage/Core (= 5.12.5)
+  - SDWebImage/Core (5.12.5)
+  - SVProgressHUD (2.2.5)
+  - SwiftMessages (9.0.6):
+    - SwiftMessages/App (= 9.0.6)
+  - SwiftMessages/App (9.0.6)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.8.2)
+  - IQDropDownTextField
+  - IQKeyboardManagerSwift
+  - lottie-ios
+  - PanModal
+  - SDWebImage
+  - SVProgressHUD
+  - SwiftMessages
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQDropDownTextField
+    - IQKeyboardManagerSwift
+    - lottie-ios
+    - PanModal
+    - SDWebImage
+    - SVProgressHUD
+    - SwiftMessages
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  IQDropDownTextField: 77916c18f518ee9f3c62735775f1ba061d92fc58
+  IQKeyboardManagerSwift: 6e839c575c4aa1078d58a596e41244e77abe918f
+  lottie-ios: 6ac74dcc09904798f59b18cb3075c089d76be9ae
+  PanModal: 3e16ead1a907fb06f4df3f13492fd00149fa4974
+  SDWebImage: 0905f1b7760fc8ac4198cae0036600d67478751e
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftMessages: f0c7ef4705a570ad6c5e208b611f4333e660ed92
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 1ecb4ad57655eef9a76334aaba7ffd952693d6d8
+
+COCOAPODS: 1.11.2
