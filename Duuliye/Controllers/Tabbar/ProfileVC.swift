@@ -60,7 +60,7 @@ extension ProfileVC:UITableViewDataSource,UITableViewDelegate {
                     let vc = loadVC(strStoryboardId: SB_TABBAR, strVCId: idFeedbackVC) as! FeedbackVC
                     APP_DELEGATE.appNavigation?.pushViewController(vc, animated: true)
                 } else {
-                    let items = [URL(string: "https://www.apple.com")!]
+                    let items = [URL(string: "https://apps.apple.com/us/app/duuliye/id1639880516")!]
                     let ac = UIActivityViewController(activityItems: items, applicationActivities: nil)
                     present(ac, animated: true)
                 }
@@ -74,7 +74,7 @@ extension ProfileVC:UITableViewDataSource,UITableViewDelegate {
                 } else if indexPath.row == 3 || indexPath.row == 4 {
                     api_logoutORRemoveAccount(tag: indexPath.row)
                 } else{
-                    let items = [URL(string: "https://www.apple.com")!]
+                    let items = [URL(string: "https://apps.apple.com/us/app/duuliye/id1639880516")!]
                     let ac = UIActivityViewController(activityItems: items, applicationActivities: nil)
                     present(ac, animated: true)
                 }
